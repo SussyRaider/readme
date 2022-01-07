@@ -190,4 +190,8 @@ Ticket Botなどのボタンを押すことができます
 誰かが答えると思う、多分
 
 [:sparkling_heart:] Writed by BruhTea#4000 , すずねーう＠垢凍結されました#3315 , Alpha Null#5000
+
 [:heavy_check_mark:] SussyRaider by gosuto :smile:
+
+
+表示がちょっと見やすい版は[こちら](https://hackmd.io/@hIcQaeazRBmc_QUFj5HjlQ/BJz0vOuiF)
