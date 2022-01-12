@@ -103,4 +103,88 @@ Instantly change your bot's nickname or avatar
 
 [:information_source:] Originally, the spelling of "アバター" should be "Avatar". However, the creator of this one thought what he was doing and wrote "Avator". This is either a joke or a sign that the creator is weak in English lol
 
+### Friend/DM spammer
+You can spam friend requests or DMs
 
+- If you want to spam a friend request, enter the name in the form of a tag in the `User` field and click on `FriendSend`.
+
+- To spam DMs, enter your user ID in the `UserID` field, enter the message you want to spam in the `SpamMessage` field, and click `DMSpammer`
+
+[:warning:] DM spam should not be used too often, as it tends to reduce the life of Tokens
+
+### Voice Spammer
+Allows you to spam voice channels.
+
+[:heavy_check_mark:] Before using the VC spammer, make sure you have `ffmpeg.exe` and `libopus.dll` in the same folder as the SussyRaider exe file.
+
+
+1. Add the VC ID to `Voice Channel ID` and the server ID to `ServerID`
+2. Select `VoiceFile mp3` and select a music file in .mp3 format
+3. Click on `VoiceSpammer` to spam the VC
+
+### Reaction Spammer
+This is broken because the productor is lazy Therefore I cannot write it lol
+
+### Button Pusher
+This function allows you to push buttons such as Ticket Bot.
+
+Enter the server ID in the `Server ID` field, the channel ID in the `Channel ID` field, the message ID in the `Message ID` field, and press Send
+
+[:warning:] This module may be unstable
+
+## You SHOULDN'T do it
+- Use WITHOUT proxies (okay if you only use a very small number of selfbots)
+- Sending DMs and friends around
+- Spamming for a very long time
+- Voice spamming with 100 tokens or more
+- Use voice spam many time
+
+## FAQ
+- Q. What is a proxy?  
+ ┗ A. It is a relay server to prevent your IP from being restricted. Most free proxies are garbage, so you should buy one. I recommend [Proxyscrape](https://proxyscrape.com) Premium.
+
+- Q. What is Token?  
+ ┗ A. Ask someone else for the details, it's hard to write
+
+- Q. I enabled All Ping and started spamming, but it doesn't say anything all the time? Is it a garbage tool? Hey?
+ ┗ A. If it looks like you are not getting members, etc., try stopping and then starting again. (If you are able to get members, `[+] Get <USERID>` will appear in the console.)
+
+- Q. Why can't I use Onliner or Reaction?  
+ ┗ A. As for Onliner, it's not implemented yet, and Reaction says it's broken meh
+
+- Q. Why can't I see what I've said when I start spamming?  
+ ┗ A. Make sure that the selfbot is not muted or kicked. Also, please check your server's authentication level, as it may be trapped
+
+- Q. I don't seem to have been sent any DMs/friend?  
+ ┗ A. There is a high possibility that the other person has rejected your DM/friend
+
+- Q. I let someone in, but they left on their own?  
+ ┗ A. It is very likely that Vortex or other anti-raid worked. Please set the delay and try again
+
+- Q. Why can't I leave the room?  
+ ┗ A. Your proxy or Token may have died
+
+- Q. I get a KeyError when I try to spam.  
+ ┗ A. There is a high possibility that the bot is being kicked, banned, or not allowed to enter in the first place
+
+- Q. I got a "Rate Limit!  
+ ┗ A. Discord has a rate limit on it. In most cases, this will be removed in a few seconds, so don't worry too much about it
+
+- Q. What is member screening?  
+ ┗ A. This
+![](https://pbs.twimg.com/media/EpyO3E6VQAA3H9Q.jpg)
+
+- Q. I can't do any mentions.  
+ ┗ A. You can't do it by doing @Nigger#1234 or something like that  
+    - User Mentions: `<@userid>`.
+    - Role Mentions: `<@&roleid>`.
+    - Channel: `<#channelid>`.
+
+- Q. I'm getting a 404 error and can't spam.  
+ ┗ A. I think you have the wrong server ID or channel ID, please check.
+ 
+ 
+If you have any other questions, please feel free to ask them in Discord!
+I'm sure someone will answer (maybe)
+
+Thanks for reading!
