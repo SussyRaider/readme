@@ -3,9 +3,7 @@ title: "SussyRaider 使い方ガイド"
 ----->
 # 〜SussyRaider 使い方ガイド～
 
-遂に！！！！！！！！GUIアプデが！！！！！！！！！！来た！！！！！！！！！！！！！！！！！！！！！(まあbetaだけども）  
-ここの内容もゆっくり更新していくので待っててね
-
+### 表示がちょっと見やすい版は[こちら](https://hackmd.io/@hIcQaeazRBmc_QUFj5HjlQ/BJz0vOuiF)
 
 [:warning:] 現在Beta版の為モジュールがJoin/Leaver、Spammerしか無いです  
   今まであった機能を使いたいなら旧型を使おう
@@ -31,7 +29,7 @@ title: "SussyRaider 使い方ガイド"
 - 質の高いプロキシ
 
 ## アカウントの作成&ログイン
-SussyRaiderは使うときにアカウントを作成する必要があります  
+SussyRaiderは使うときにアカウントを作成する必要があります（初回のみ）  
 1. まず[公式サーバー](https://discord.gg/Cdee9PTRg8)の`#hwid-issue`からチケットを作成し、Devたちに殴り込んでライセンスキーを入手します
 2. ライセンスキーが手に入ったら、[SussyRaiderの登録ページ](https://sussyraider.cc/register)でアカウントを登録します  
    ライセンスキーを一番最後の場所に入れてください  
@@ -91,7 +89,7 @@ Spamをする場合、
 
 
 ### 通報スパム (ReportSpam)
-DiscordのAPIの通報スパムを行えます  
+DiscordのAPIの通報スパムを行えます。[ここ](https://support.discord.com/hc/en-us/requests/new)からの通報では無いので気をつけてください。
 `ServerID`にサーバーのID、`ChannelID`にチャンネルのID、`MessageID`にメッセージのIDを入れてください
 #### ReportType(通報の理由)
 ┣ Illegal Content (違法なコンテンツ、二次元のロリ画像なども通る)  
@@ -152,14 +150,14 @@ Ticket Botなどのボタンを押すことができます
 - Q. Tokenって何？  
 ┗ A. Discordのアカウントの全てと言っても過言では無い物です。詳しくは別の人に聞いてくれ書ききれん
 
-- Q. All Ping有効化してスパム開始したんだけど、ずっと発言されないよ・・・  
+- Q. All Ping有効化してスパム開始したんだけど、ずっと発言されないんだけど？ゴミツールか？おい？
 ┗ A. メンバーの取得などができていなさそうな場合は一度停止してから開始してみてください。(メンバーの取得ができている場合、`[+] Get <USERID>`とコンソールに出てきます)
 
 - Q. OnlinerとかReaction使えないんだけど？  
-┗ A. まだ実装されとらんわボケ
+┗ A. Onlinerについてはまだ実装されとらんしReactionは壊れてるって書いてんだろメクラボケ
 
 - Q. スパム開始しても発言が確認できないんだけど？？  
-┗ A. ボットがミュートされていないか、又は蹴られたりしていないか確認してください。また、サーバーの認証レベルに引っかかってる可能性があります
+┗ A. ボットがミュートされていないか、又は蹴られたりしていないか確認してください。また、サーバーの認証レベルに引っかかってる可能性があるので、確認してください
 
 - Q. DM/フレンドが送られてないみたいなんだけど？  
 ┗ A. 相手がDM/フレンドを拒否している可能性が高いです
@@ -186,12 +184,11 @@ Ticket Botなどのボタンを押すことができます
     - ロールメンション: `<@&roleid>`
     - チャンネル: `<#channelid>`
 
+- Q. 404ってエラー出てspamできないんだけど何？！？！  
+┗ A. サーバーIDとかチャンネルIDとか間違えてそうなので確認してください
+
 その他不明な箇所があったら、Discord内で気軽に質問してください
 誰かが答えると思う、多分
 
-[:sparkling_heart:] Writed by BruhTea#4000 , すずねーう＠垢凍結されました#3315 , Alpha Null#5000
-
-[:heavy_check_mark:] SussyRaider by gosuto :smile:
 
 
-表示がちょっと見やすい版は[こちら](https://hackmd.io/@hIcQaeazRBmc_QUFj5HjlQ/BJz0vOuiF)
