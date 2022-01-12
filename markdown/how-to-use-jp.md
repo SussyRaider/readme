@@ -12,7 +12,6 @@ title: "SussyRaider 使い方ガイド"
 
 
 - このガイドはSussyRaiderの使い方を理解できない馬鹿の為にあります
-- このガイドの最終更新は [2022/1/12 21:55 JST] です
 - BruhTea#4000
 
 ## 前提条件
@@ -210,6 +209,3 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 
 その他不明な箇所があったら、Discord内で気軽に質問してください
 誰かが答えると思う、多分
-
-
-
