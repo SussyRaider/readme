@@ -56,6 +56,8 @@ Set Delayを使用することで遅延を設定できます。Delay 1 = 1秒の
 最悪の場合貴方のIPがDiscordにより規制されます**
 - 少数tokenの場合(1~5個まで)ならなしでも大丈夫ｶﾓ
 
+![](https://cdn.upload.systems/uploads/WM01FKhQ.gif)
+
 ### 入室/退室 (Join/Leave)
 ボットをサーバーに入室させる場合、`InviteLink` へ招待を入れます  
 招待を入れたら、左のタブの`SelectALL`を押すか、使用するtokenを選択します  
@@ -66,6 +68,8 @@ Tokenを退室させる場合は、 `ServerID` へサーバーのIDを入れま�
 `Leave` を押すとサーバーからボットが退室します
 
 ![](https://cdn.upload.systems/uploads/rb9p0Qov.png)
+
+![](https://cdn.upload.systems/uploads/oiBLQd1n.gif)
 
 ### サーバー内スパム (Spammer)
 `ServerID`へスパム対象のサーバーのIDを入れ、`ChannelID`にはスパム対象のチャンネルのIDを入れます
@@ -87,6 +91,7 @@ Spamをする場合、
 
 [:warning:] All Pingは不安定な為、動かない場合があります。一度停止してからもう一度開始すると動く場合があります
 
+![](https://cdn.upload.systems/uploads/vPXswbzC.gif)
 
 ### 通報スパム (ReportSpam)
 DiscordのAPIの通報スパムを行えます。[ここ](https://support.discord.com/hc/en-us/requests/new)からの通報では無いので気をつけてください。
