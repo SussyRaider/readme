@@ -193,6 +193,21 @@ Ticket Botなどのボタンを押すことができます
 - Q. どうやってtoken手に入れるの？
 ┗ A. 買うか作れ。
 
+## その他Discordについてのガイド
+
+### Tokenの抜き方
+
+※このガイドはPC専用。
+
+1.Discordを開いている画面で`Ctrl+Shift+I`を押す。
+2.開発者ツールが開くので、コンソールタブへ行く。
+3.コンソールタブを開いたら、以下のコードをコピー＆ペーストする。
+```
+window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getToken !== undefined) {return copy(m.default.getToken())}if (m.getToken !== undefined) {return copy(m.getToken())}}}]); console.log("%cWorked!", "font-size: 50px"); console.log(`%cYou now have your token in the clipboard!`, "font-size: 16px")
+```
+4.クリップボードにtokenがコピーされる。
+
+
 その他不明な箇所があったら、Discord内で気軽に質問してください
 誰かが答えると思う、多分
 
