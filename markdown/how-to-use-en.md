@@ -95,3 +95,12 @@ Please put the server ID in `ServerID`, the channel ID in `ChannelID`, and the m
 
 You can start a report by clicking on `ReportSpam` at the top.
 
+### Nickname/Avatar change (Nick/Avator)
+Instantly change your bot's nickname or avatar
+
+- To change your avatar, enter the image link in the `Avator URL` and click `ChangeAvator`.
+- To change your nickname, enter your server ID in the `ServerID` field, enter your nickname in the `Nickname` field, and click `ChangeNick`
+
+[:information_source:] Originally, the spelling of "アバター" should be "Avatar". However, the creator of this one thought what he was doing and wrote "Avator". This is either a joke or a sign that the creator is weak in English lol
+
+
