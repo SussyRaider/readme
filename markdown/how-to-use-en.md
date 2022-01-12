@@ -37,7 +37,7 @@ SussyRaider requires you to create an account to use it (first time only)
 
 ## Operate Module
 
-## Proxy and Token settings
+### Proxy and Token settings
 Basically, SussyRaider loads the proxy first, then the token  
 As shown in the screenshot, select the type of proxy you want to use, check `Use Proxy`, check the proxy, and finally load the token.
 
@@ -54,7 +54,7 @@ This will be applied by pressing Apply
 In the worst case, your IP will be restricted by Discord**
 - If you have a small number of tokens (1~5) you (maybe) able to use without it
 
-## Join/Leave
+### Join/Leave
 If you want selfbots to enter the server, put the invite link to `InviteLink`  
 After entering the invitation, press `SelectALL` on the left tab or select the token you want to use  
 After selecting the token, press `Join` to let the bot enter the server  
@@ -62,4 +62,36 @@ After selecting the token, press `Join` to let the bot enter the server
 To bypass member screening, check the `Bypass Member Screen` checkbox and enter the server ID before entering the room  
 To leave the Token, enter the server ID in the `ServerID` field  
 Press `Leave` to exit the bot from the server
+
+![](https://cdn.upload.systems/uploads/rb9p0Qov.png)
+
+### Server Spammer
+Put the ID of the server to be spammed in `ServerID` and the ID of the channel to be spammed in `ChannelID`
+
+#### Button description
+┣ All Ping : Send a ping to all members in the server. (If the server has 1000+ members, only online members will be pinged)  
+┣ Spam to All Channel : Spam to all channels on the server where you can speak  
+┣ Random String : Inserts a random string at the end of the text to be spammed  
+┣ RateLimitFixer : When a rate limited, this will pause sending requests until the rate limit is end  
+┃  
+┣ Mention : Sets the number of people to mention in All Ping, only works when All Ping is enabled  
+SpamMessage : Enter the text to be spam here
+
+You when have to spam, enter a message in the Put the message in the `Content` field and press `Add Content` to add the content (you can add more than one of these)  
+Start spamming with `Spam Start`, and if All Ping is enabled, fetch the members and then start spamming.  
+Press`EndSpam` to stop spam
+
+[:warning:] All Ping is unstable and may not work. If you stop it and then start it again, it may work
+
+### Report Spam
+You can report spam on the Discord API. Please note that this is not a report from [here](https://support.discord.com/hc/en-us/requests/new)  
+Please put the server ID in `ServerID`, the channel ID in `ChannelID`, and the message ID in `MessageID`
+#### Report Type (Reason for the report)
+┣ Illegal Content (Illegal content, including 2D loli images, etc.)  
+┣ Harrasment (Harassment, etc.)  
+┣ Spam or Phishing Links (links to spam or phishing sites, etc.)  
+┣ Self harm (suicidal behavior etc.)  
+┣ NSFW Content (pornographic content on non-NSFW channels, etc.)
+
+You can start a report by clicking on `ReportSpam` at the top.
 
