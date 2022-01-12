@@ -3,7 +3,7 @@ title: "SussyRaider 使い方ガイド"
 ----->
 # 〜SussyRaider 使い方ガイド～
 
-###表示がちょっと見やすい版は[こちら](https://hackmd.io/@hIcQaeazRBmc_QUFj5HjlQ/BJz0vOuiF)
+### 表示がちょっと見やすい版は[こちら](https://hackmd.io/@hIcQaeazRBmc_QUFj5HjlQ/BJz0vOuiF)
 
 [:warning:] 現在Beta版の為モジュールがJoin/Leaver、Spammerしか無いです  
   今まであった機能を使いたいなら旧型を使おう
