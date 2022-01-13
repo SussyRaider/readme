@@ -221,18 +221,18 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 
 
 100プロキシを2.99ドルで購入できる。
-Proxyscrapeは1000個～なのでそこまでいらない・・・という人に向いているかも
-スレッド・帯域制限あり。
-IPAuthが4つまでしかできない。
+Proxyscrapeは1000個～なのでそこまでいらない・・・という人に向いているかも  
+スレッド・帯域制限あり。  
+IPAuthが4つまでしかできない。  
 
 [Webshare Proxy](https://www.webshare.io/)
 
 #### Proxyscrape Premium
 
-1000プロキシが24ドルで購入できる。
-Webshareの場合は27ドルの為大量に必要な場合はこちらが良い
+1000プロキシが24ドルで購入できる。  
+Webshareの場合は27ドルの為大量に必要な場合はこちらが良い  
 
-スレッド・帯域制限なし。
-IPAuth 3つまで。
+スレッド・帯域制限なし。  
+IPAuth 3つまで。  
 
 [Proxyscrape Premium](https://proxyscrape.com/premium?ref=home)
