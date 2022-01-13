@@ -9,7 +9,6 @@
 
 
 - This guide is for the idiots who can't figure out how to use SussyRaider lol
-- This guide was last modified on [2022/1/12 4:42 PM JST].
 - BruhTea#4000
 
 ## Prerequisite
@@ -52,7 +51,10 @@ This will be applied by pressing Apply
 
 [:x:] **Check the Use Proxy checkbox before loading the token  
 In the worst case, your IP will be restricted by Discord**
-- If you have a small number of tokens (1~5) you (maybe) able to use without it
+- If you have a small number of tokens (1~5) you <span style="font-size: 30%; color: #f7f7f7;">(maybe)</span> able to use without it
+
+![](https://cdn.upload.systems/uploads/WM01FKhQ.gif)
+
 
 ### Join/Leave
 If you want selfbots to enter the server, put the invite link to `InviteLink`  
@@ -63,7 +65,7 @@ To bypass member screening, check the `Bypass Member Screen` checkbox and enter 
 To leave the Token, enter the server ID in the `ServerID` field  
 Press `Leave` to exit the bot from the server
 
-![](https://cdn.upload.systems/uploads/rb9p0Qov.png)
+![](https://cdn.upload.systems/uploads/oiBLQd1n.gif)
 
 ### Server Spammer
 Put the ID of the server to be spammed in `ServerID` and the ID of the channel to be spammed in `ChannelID`
@@ -83,8 +85,10 @@ Press`EndSpam` to stop spam
 
 [:warning:] All Ping is unstable and may not work. If you stop it and then start it again, it may work
 
+![](https://cdn.upload.systems/uploads/vPXswbzC.gif)
+
 ### Report Spam
-You can report spam on the Discord API. Please note that this is not a report from [here](https://support.discord.com/hc/en-us/requests/new)  
+You can report spam on the Discord API. Please note that this is NOT a report from [here](https://support.discord.com/hc/en-us/requests/new)  
 Please put the server ID in `ServerID`, the channel ID in `ChannelID`, and the message ID in `MessageID`
 #### Report Type (Reason for the report)
 ┣ Illegal Content (Illegal content, including 2D loli images, etc.)  
@@ -134,19 +138,19 @@ Enter the server ID in the `Server ID` field, the channel ID in the `Channel ID`
 
 ## You SHOULDN'T do it
 - Use WITHOUT proxies (okay if you only use a very small number of selfbots)
-- Sending DMs and friends around
+- Sending DMs and friends many time
 - Spamming for a very long time
-- Voice spamming with 100 tokens or more
+- Voice spamming with 100 tokens or more (Your computer's CPU and network usage will be huge!)
 - Use voice spam many time
 
 ## FAQ
 - Q. What is a proxy?  
- ┗ A. It is a relay server to prevent your IP from being restricted. Most free proxies are garbage, so you should buy one. I recommend [Proxyscrape](https://proxyscrape.com) Premium.
+ ┗ A. It is a relay server to prevent your IP from being restricted. Most free proxies are trash, so you should buy one. I recommend [Proxyscrape](https://proxyscrape.com) Premium.
 
 - Q. What is Token?  
  ┗ A. Ask someone else for the details, it's hard to write
 
-- Q. I enabled All Ping and started spamming, but it doesn't say anything all the time? Is it a garbage tool? Hey?
+- Q. I enabled All Ping and started spamming, but it doesn't say anything all the time? Is it a trash tool? Hey?
  ┗ A. If it looks like you are not getting members, etc., try stopping and then starting again. (If you are able to get members, `[+] Get <USERID>` will appear in the console.)
 
 - Q. Why can't I use Onliner or Reaction?  
@@ -183,7 +187,20 @@ Enter the server ID in the `Server ID` field, the channel ID in the `Channel ID`
 - Q. I'm getting a 404 error and can't spam.  
  ┗ A. I think you have the wrong server ID or channel ID, please check.
  
+- Q. How do I get a token?  
+ ┗ A. Buy or make.
  
+## Other guides about Discord
+## How to get Token
+This guide is for PC only
+1. Press `Ctrl+Shift+I` on the screen where Discord is open.
+2. Developer tools will open, go to the console tab.
+3. After opening the console tab, copy and paste the following code.
+```js
+window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getToken !== undefined) {return copy(m.default.getToken())}if (m.getToken !== undefined) {return copy(m.getToken())}}}]); console.log("%cWorked!", "font-size: 50px"); console.log(`%cYou now have your token in the clipboard!`, "font-size: 16px")
+```
+4. The token is copied to the clipboard.
+
 If you have any other questions, please feel free to ask them in Discord!
 I'm sure someone will answer (maybe)
 
