@@ -11,8 +11,7 @@ title: "SussyRaider 使い方ガイド"
 ![](https://cdn.upload.systems/uploads/DAZQJDDk.png)
 
 
-- このガイドはSussyRaiderの使い方を理解できない馬鹿の為にあります
-- BruhTea#4000
+- このガイドはSussyRaiderの使い方を理解できない馬鹿の為にありますが、そもそもこれを読まない、読んでも理解できない、等の人はもう使うんじゃねえ死ね
 
 ## 前提条件
 - SussyRaiderは**Windows10,64bit**環境でのみ動作確認、サポートを行っています
@@ -35,6 +34,9 @@ SussyRaiderは使うときにアカウントを作成する必要があります
    ![register sample](https://i.imgur.com/sK7Kfad.png)
 3. Dev達が疲弊するので、登録できたら殴り込みに行ったチケットをcloseしましょう
 4. SussyRaiderを起動し、`userid`に貴方の設定したユーザー名、`password`にあなたのパスワードを入れて、`LaunchSussy`を押してください
+
+![](https://cdn.upload.systems/uploads/dYdtg3JE.png)
+
 5. SussyRaiderが起動します
 
 ## モジュールの操作方法
@@ -102,6 +104,7 @@ DiscordのAPIの通報スパムを行えます。[ここ](https://support.discor
 
 一番上の`ReportSpam`を押すことで通報を開始できます。
 
+本当に効果があるのかは知りません
 ### ニックネーム/アバター変更 (Nick/Avator)
 ボットのニックネームやアバターを瞬時に変更できます
 
@@ -192,6 +195,10 @@ Ticket Botなどのボタンを押すことができます
 - Q. どうやってtoken手に入れるの？  
 ┗ A. 買うか作れ。
 
+
+その他不明な箇所があったら、Discord内で気軽に質問してください
+誰かが答えると思う、多分
+
 ## その他Discordについてのガイド
 
 ### Tokenの抜き方
@@ -206,6 +213,27 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 ```
 4.クリップボードにtokenがコピーされる。  
 
+スマホ勢はブックマークレットとかを使おう  
+  
+### オススメのプロキシ
 
-その他不明な箇所があったら、Discord内で気軽に質問してください
-誰かが答えると思う、多分
+#### Webshare
+
+
+100プロキシを2.99ドルで購入できる。
+Proxyscrapeは1000個～なのでそこまでいらない・・・という人に向いているかも
+スレッド・帯域制限あり。
+IPAuthが4つまで*しかできない。
+
+*(通常のipauth＋sub-userのipauth)
+[Webshare Proxy](https://www.webshare.io/?referral_code=hcg7tjkxfxt8)
+
+#### Proxyscrape Premium
+
+1000プロキシが24ドルで購入できる。
+Webshareの場合は27ドルの為大量に必要な場合はこちらが良い
+
+スレッド・帯域制限なし。
+IPAuth 3つまで。
+
+[Proxyscrape Premium](https://proxyscrape.com/premium?ref=home)
