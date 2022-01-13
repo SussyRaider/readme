@@ -201,7 +201,7 @@ Ticket Botなどのボタンを押すことができます
 
 ## その他Discordについてのガイド
 
-### Tokenの抜き方
+### Tokenの取得方法
 
 ※このガイドはPC専用。
 
@@ -213,7 +213,7 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 ```
 4.クリップボードにtokenがコピーされる。  
 
-スマホ勢はブックマークレットとかを使おう  
+スマホ勢はブックマークレットとかを使おう  ＊PCの場合、Web版でもClient版でも動作します。
   
 ### オススメのプロキシ
 
@@ -226,7 +226,7 @@ Proxyscrapeは1000個～なのでそこまでいらない・・・という人�
 IPAuthが4つまで*しかできない。
 
 *(通常のipauth＋sub-userのipauth)
-[Webshare Proxy](https://www.webshare.io/?referral_code=hcg7tjkxfxt8)
+[Webshare Proxy](https://www.webshare.io/)
 
 #### Proxyscrape Premium
 
