@@ -225,7 +225,8 @@ Proxyscrapeは1000個～なのでそこまでいらない・・・という人�
 スレッド・帯域制限あり。
 IPAuthが4つまで*しかできない。
 
-*(通常のipauth＋sub-userのipauth)
+*(通常のipauth＋sub-userのipauth)  
+
 [Webshare Proxy](https://www.webshare.io/?referral_code=hcg7tjkxfxt8)
 
 #### Proxyscrape Premium
