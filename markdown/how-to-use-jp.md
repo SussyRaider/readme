@@ -223,7 +223,7 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 100プロキシを2.99ドルで購入できる。
 Proxyscrapeは1000個～なのでそこまでいらない・・・という人に向いているかも
 スレッド・帯域制限あり。
-IPAuthが4つまで*しかできない。
+IPAuthが4つまでしかできない。
 
 [Webshare Proxy](https://www.webshare.io/)
 
