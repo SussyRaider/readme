@@ -238,4 +238,4 @@ Webshareの場合は27ドルの為大量に必要な場合はこちらが良い
 スレッド・帯域制限なし。  
 IPAuth 3つまで。  
 
-[Proxyscrape Premium](https://proxyscrape.com/premium?ref=home)
+[Proxyscrape Premium](https://proxyscrape.com/premium)
