@@ -8,8 +8,7 @@
 ![](https://cdn.upload.systems/uploads/DAZQJDDk.png)
 
 
-- This guide is for the idiots who can't figure out how to use SussyRaider lol
-- BruhTea#4000
+- This guide is for the idiots who can't figure out how to use SussyRaider, but if you don't read it in the first place, can't figure it out even if you do, etc., don't use it anymore Just die!
 
 ## Prerequisite
 - SussyRaider has been tested and supported only on **Windows 10, 64bit** environment
@@ -26,13 +25,17 @@
 
 ## Create Account & Log in
 SussyRaider requires you to create an account to use it (first time only)  
-1. first create a ticket from `#hwid-issue` on the [official server](https://discord.gg/Cdee9PTRg8) and punch the Devs to get a license key
+1. first create a ticket from `#hwid-issue` on the [official server](https://discord.gg/Cdee9PTRg8) and punch the Devs to get a license key  
+  (Fools who have not read this guide may not be able to obtain a license key)
 2. once you have the license key, go to [SussyRaider's registration page](https://sussyraider.cc/register) and register an account.  
    Put your license key in the last place!  
    ! [register sample](https://i.imgur.com/sK7Kfad.png)
 3. close the ticket you went to punch in once you've registered, because Devs get tired
 4. launch SussyRaider, enter your username in the `userid` field and your password in the `password` field, then press `LaunchSussy`
-5. SussyRaider will start bruh
+
+![](https://cdn.upload.systems/uploads/dYdtg3JE.png)
+
+6. SussyRaider will start bruh
 
 ## Operate Module
 
@@ -99,6 +102,7 @@ Please put the server ID in `ServerID`, the channel ID in `ChannelID`, and the m
 
 You can start a report by clicking on `ReportSpam` at the top.
 
+I don't know if it really works bruh
 ### Nickname/Avatar change (Nick/Avator)
 Instantly change your bot's nickname or avatar
 
@@ -201,7 +205,30 @@ window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m
 ```
 4. The token is copied to the clipboard.
 
-If you have any other questions, please feel free to ask them in Discord!
-I'm sure someone will answer (maybe)
+For smartphone users, use a bookmarklet or something
+- For PC, both the Web version and Client version work
+
+### Good Proxy services
+#### Webshare
+
+You can buy 100 proxies for $2.99.
+Proxyscrape is 1000 units or more, so if you don't need that much... this might be a good choice for you.  
+
+Thread and bandwidth limited.  
+Only up to 4 IPAuths\* are allowed.  
+
+\*(normal ipauth + sub-user's ipauth)  
+[Webshare Proxy](https://www.webshare.io/)
+
+#### Proxyscrape Premium
+
+You can buy 1000 proxies for $24.  
+Webshare is $27, so if you need a large amount, this is the way to go.  
+
+No thread or bandwidth limit.  
+Up to 3 IPAuth.  
+
+[Proxyscrape Premium](https://proxyscrape.com/premium?ref=home)
+
 
 Thanks for reading!
