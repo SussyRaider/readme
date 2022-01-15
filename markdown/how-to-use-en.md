@@ -35,7 +35,7 @@ SussyRaider requires you to create an account to use it (first time only)
 
 ![](https://cdn.upload.systems/uploads/dYdtg3JE.png)
 
-6. SussyRaider will start bruh
+5. SussyRaider will start bruh
 
 ## Operate Module
 
