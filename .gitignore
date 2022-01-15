@@ -119,3 +119,7 @@ modules.xml
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains+all,visualstudiocode
+
+# ignore node modules and lock file
+node_modules
+*lock.json
