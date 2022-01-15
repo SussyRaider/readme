@@ -1,0 +1,25 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "SussyRaider",
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint *.md markdown/*jp.md",
+    "lint:fix": "textlint *.md markdown/*jp.md --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SussyRaider/readme.git"
+  },
+  "author": "GhostchanD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SussyRaider/readme/issues"
+  },
+  "homepage": "https://github.com/SussyRaider/readme#readme",
+  "dependencies": {
+    "textlint": "^12.1.0",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
+  }
+}
