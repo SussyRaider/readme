@@ -28,7 +28,8 @@ title: "SussyRaider 使い方ガイド"
 
 ## アカウントの作成&ログイン
 SussyRaiderは使うときにアカウントを作成する必要があります（初回のみ）  
-1. まず[公式サーバー](https://discord.gg/Cdee9PTRg8)の`#hwid-issue`からチケットを作成し、Devたちに殴り込んでライセンスキーを入手します
+1. まず[公式サーバー](https://discord.gg/Cdee9PTRg8)の`#hwid-issue`からチケットを作成し、Devたちに殴り込んでライセンスキーを入手します  
+   (このガイドを読んでいないような馬鹿はライセンスキーを入手できない場合があります)
 2. ライセンスキーが手に入ったら、[SussyRaiderの登録ページ](https://sussyraider.cc/register)でアカウントを登録します  
    ライセンスキーを一番最後の場所に入れてください  
    ![register sample](https://i.imgur.com/sK7Kfad.png)
