@@ -20,21 +20,21 @@ jobs:
       - name: textlint-github-check
         uses: tsuyoshicho/action-textlint@v3
         with:
-          github_token: ${{ secrets.token }}
+          GITHUB_TOKEN: ${{ secrets.token }}
           reporter: github-check
           level: warning
           textlint_flags: "*.md markdown/*jp.md"
       - name: textlint-github-pr-check
         uses: tsuyoshicho/action-textlint@v3
         with:
-          github_token: ${{ secrets.token }}
+          GITHUB_TOKEN: ${{ secrets.token }}
           reporter: github-pr-check
           level: warning
           textlint_flags: "*.md markdown/*jp.md"
       - name: textlint-github-pr-review
         uses: tsuyoshicho/action-textlint@v3
         with:
-          github_token: ${{ secrets.token }}
+          GITHUB_TOKEN: ${{ secrets.token }}
           reporter: github-pr-review
           level: warning
           textlint_flags: "*.md markdown/*jp.md"
