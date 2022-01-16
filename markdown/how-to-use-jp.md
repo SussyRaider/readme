@@ -5,9 +5,6 @@ title: "SussyRaider 使い方ガイド"
 
 ### 表示がちょっと見やすい版は[こちら](https://hackmd.io/@hIcQaeazRBmc_QUFj5HjlQ/BJz0vOuiF)
 
-[:warning:] 現在Beta版の為モジュールがJoin/Leaver、Spammerしか無いです  
-  今まであった機能を使いたいなら旧型を使おう
-
 ![](https://cdn.upload.systems/uploads/DAZQJDDk.png)
 
 
@@ -39,6 +36,9 @@ SussyRaiderは使うときにアカウントを作成する必要があります
 ![](https://cdn.upload.systems/uploads/dYdtg3JE.png)
 
 5. SussyRaiderが起動します
+
+- [:information_source:] `old`にチェックを入れると旧バージョンのuiを使用することができます
+- [:warning:] 起動しない場合は下にあるよくある質問を参照してください
 
 ## モジュールの操作方法
 
@@ -195,6 +195,14 @@ Ticket Botなどのボタンを押すことができます
 
 - Q. どうやってtoken手に入れるの？  
 ┗ A. 買うか作れ。
+
+- Q. LaunchSussy押しても起動しない  
+┗ A. 今どう表示されていますか？
+  - bad username or password
+    - まず[公式サイト](https://sussyraider.cc)でログインできるかどうか確認してください。  
+      ログインできる場合、hwidが苦い可能性があります  
+      1アカウントに1hwidなので、複数のPCで使用する場合、公式サーバーの`#hwid-issue`に凸って新しいアカウントを入手しましょう  
+      ログインできない場合はusernameかpasswordが間違ってるので40回くらい確認してください
 
 
 その他不明な箇所があったら、Discord内で気軽に質問してください
