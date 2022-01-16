@@ -1,9 +1,6 @@
 # 〜HOW TO USE SussyRaider〜
 
 ### [Here](https://hackmd.io/@hIcQaeazRBmc_QUFj5HjlQ/BJz0vOuiF) is a version that is easy to view
-
-[:warning:] It is currently in Beta, so the only modules available are Join/Leaver and Spammer  
-  If you want to use the existing features, use the old version!
   
 ![](https://cdn.upload.systems/uploads/DAZQJDDk.png)
 
@@ -36,6 +33,9 @@ SussyRaider requires you to create an account to use it (first time only)
 ![](https://cdn.upload.systems/uploads/dYdtg3JE.png)
 
 5. SussyRaider will start bruh
+
+- [:information_source:] Check `old` to use an older version of ui
+- [:warning:] If it doesn't start, see the FAQ at the bottom
 
 ## Operate Module
 
@@ -193,6 +193,14 @@ Enter the server ID in the `Server ID` field, the channel ID in the `Channel ID`
  
 - Q. How do I get a token?  
  ┗ A. Buy or make.
+ 
+ - Q. SussyRaider does not launch when LaunchSussy is pressed  
+ ┗ A. How is it displayed now?
+  - bad username or password
+    - First, please check if you can log in at the [official website](https://sussyraider.cc).  
+      If you can log in, your hwid may be bad.  
+      There is one hwid per account, so if you want to use it on more than one PC, please punch `#hwid-issue` on the official server to get a new account.  
+      If you can't log in, your username or password is wrong, check it 40 times.
  
 ## Other guides about Discord
 ## How to get Token
