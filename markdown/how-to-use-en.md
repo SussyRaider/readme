@@ -102,7 +102,7 @@ Please put the server ID in `ServerID`, the channel ID in `ChannelID`, and the m
 
 You can start a report by clicking on `ReportSpam` at the top.
 
-I don't know if it really works bruh
+***I don't know if it really works bruh***
 ### Nickname/Avatar change (Nick/Avator)
 Instantly change your bot's nickname or avatar
 
@@ -228,7 +228,7 @@ Webshare is $27, so if you need a large amount, this is the way to go.
 No thread or bandwidth limit.  
 Up to 3 IPAuth.  
 
-[Proxyscrape Premium](https://proxyscrape.com/premium?ref=home)
+[Proxyscrape Premium](https://proxyscrape.com/premium)
 
 
 Thanks for reading!
