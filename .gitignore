@@ -120,6 +120,5 @@ modules.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains+all,visualstudiocode
 
-# ignore node modules and lock file
+# ignore node modules
 node_modules
-*lock.json
