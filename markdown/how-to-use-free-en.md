@@ -1,25 +1,25 @@
 # 〜HOW TO USE SussyRaider Free〜
-- このガイドはPremiumが買えない、バカでアホでドジな貧困層のためにあります。このガイドさえ読む気がないやつはネットを引退してください
-- 公式サーバーでFreeの質問をしないでください、Freeに人権はありません
-- Freeに人権はありません
-- [https://discord.gg/Cdee9PTRg8](https://discord.gg/Cdee9PTRg8)に必ず参加
+- This guide is for the stupid, dumb, and screwed up poor people who can't afford Premium. Anyone who can't be bothered to even read this guide should retire from the Internet
+- Please don't ask about Free SussyRaider questions on official servers, Free has no human rights
+- Free has no human rights
+- Join [https://discord.gg/Cdee9PTRg8](https://discord.gg/Cdee9PTRg8) necessarily
 
 
-## 注意事項
-- このガイドはPremiumが買えない馬鹿のためにあります
-- このガイドさえ読む気がないやつはネットを引退してください
-  - 読んでも理解できないやつは視覚か精神か脳に異常をきたしている可能性があるので病院に行ってください
-- 公式サーバーでFreeの質問をしないでください
-- 二次配布をしないでください(公式サーバーのURLを貼る場合許可)
-- このガイドに乗ってあるスクリーンショットはPremium版のものがあるのでFree版と若干異なるスクショがあります。  
-  これくらいで文句言うなら使うな
-- SussyRaiderは**Windows10,64bit**環境でのみ動作確認、サポートを行っています
-  - 他バージョンのWindowsでは正常に動かない場合があります(**あくまで可能性です**)
-  - Windows10,64bit環境以外での動作は一切保証されません
-- Premium買え
-- Freeに人権はありません
-- Freeに人権はありません
-- Freeに人権はありません
+## Precautions
+- This guide is for the stupid, dumb, and screwed up poor people who can't afford Premium
+- Anyone who can't be bothered to even read this guide should retire from the Internet
+  - If you can't understand what you're reading, you may have a visual, mental or brain disorder and should go to the hospital
+- Please don't ask about Free SussyRaider questions on official servers
+- Do NOT make secondary distribution (if you post the URL of the official server, it is allowed)
+- The screenshots in this guide are from the Premium version, so some of them may be slightly different from the Free version.  
+  If you're going to complain about this, don't use it bruh
+- SussyRaider has been tested and supported only in **Windows 10, 64bit** environment.
+  - It may not work properly on other versions of Windows (**only a possibility**)
+  - Operation in environments other than Windows 10, 64bit is not guaranteed at all
+- Buy Premium
+- Free has no human rights
+- Free has no human rights
+- Free has no human rights
 
 ## 必要条件
 - SussyRaider Free
