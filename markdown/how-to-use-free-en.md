@@ -21,121 +21,120 @@
 - Free has no human rights
 - Free has no human rights
 
-## 必要条件
+## Prerequirements
 - SussyRaider Free
-- あなたのアカウントで[公式サーバー](https://discord.gg/Cdee9PTRg8)に入ること
+- To join the [official server](https://discord.gg/Cdee9PTRg8) with your account
 - Windows PC
-- Fastな回線
-- 英検4級が取得可能なくらいの英語力
-- 英語以外にも、日常生活で異常をきたさないくらいの(Freeについて公式サーバーでhelpを求めないことくらいに)常識と脳
-- もしトラブルに合っても自分とこのガイドだけで解決する力
+- Fast Internet connection
+- English proficiency sufficient to obtain Eiken level 4 (but here it was written, if you can read this, you've already achieved this ability... If you're not using a translator...)
+- In addition to English, you should have enough common sense and brains not to get into trouble in daily life (like not asking for help on the official servers about Free)
+- The ability to solve problems with only yourself and this guide if you encounter trouble
 - Discord Token
-- 質の高いプロキシ
+- Good Proxies
 
-## モジュールの操作方法
-Sussy無料版はjoinerとspammerしか無いです  
-もっと機能欲しかったら有料版買えや貧乏人野郎バーーーーーーカ
-### プロキシやtokenの設定 (settings)
-- 設定  
-  基本的にSussyRaiderは先にプロキシをロードし、その後にTokenをロードします  
-  スクリーンショットのように、使用するプロキシのタイプを選び、`Use Proxy`にチェックを入れ、プロキシをチェックし、最後にtokenをロードします。
+## Operate Module
+Sussy free version only has joiner and spammer!  
+If you want more features, buy the paid version, you poor bastaaaaaaaaaaaaaaaaard
+### Proxy and Token Settings 
+Basically, SussyRaider loads the proxy first, then the token.  
+As shown in the screenshot, select the type of proxy you want to use, check `Use Proxy`, check the proxy, and finally load the token.
 
-[:warning:] 串を刺さなくてもSussyRaiderを使用することは可能  
-しかしあなたのIPが迫害(レートリミット)されたり黒人認定(marked)されたりするので刺さなくていい場面などほぼない  
-現にどっかの馬鹿は串刺さないでspamして迫害を食らっています。哀れですね、死んだほうがいいと思います  
+[:warning:] It is possible to use SussyRaider without proxies  
+But there's almost no situation where you don't have to use because your IP is persecuted (rate limit) or identified as black (marked)  
+Some idiot is currently being persecuted for spamming without a proxy. It's pathetic. I think he should die  
 ![](https://media.discordapp.net/attachments/936219945208004608/936220385060474961/unknown.png)  
 ![](https://i.imgur.com/5G5v0ES.png)  
-無料でproxyを手に入れる方法は[こちら](https://hackmd.io/@bruhtea/B11CmEiiF)を参照してください  
-でもなるべく有料串を買え  
-あっ有料串なんて買えるやつはもうとっくにpremium買ってるか(笑)
+Learn how to get free proxies [here](https://hackmd.io/@bruhtea/B11CmEiiF)  
+But if possible, buy paid proxies  
+If you can afford to buy paid proxies, you've already bought premium.
 
 ---
 ![](https://cdn.upload.systems/uploads/Afq8D4Af.png)
 
-Set Delayを使用することで遅延を設定できます。そんくらい分かるよな（笑）  
-[:information_source:] Delay 1 = 1秒の遅延  
-これはApply を押すことで適用されます。
+You can set the delay by using Set Delay. You know that much, right? (laughs)  
+[:information_source:] Delay 1 = 1 second delay  
+This will be applied by pressing Apply.
 
 ![](https://cdn.upload.systems/uploads/bScI5V2R.png)
 
-[:x:] Tokenをロードする前にUse Proxyにチェックを入れろ(Proxy使用してる場合)
+[:x:] Check Use Proxy before loading the Token (if you are using a proxy)
 
 ![](https://cdn.upload.systems/uploads/WM01FKhQ.gif)
 
-### 入室/退室 (Join/Leave)
-ボットをサーバーに入室させる場合、`InviteLink` へ招待を入れます(**招待コードだけ**)  
-招待を入れたら、左のタブの`SelectALL`を押すか、使用するtokenを選択します  
-tokenの選択を終えた後、 `Join` を押すとボットの入室が始まります  
+### Join/Leave
+If you want to allow selfbots to enter the server, enter an invite to `InviteLink` (**invite code only**).  
+After entering the invitation, press `SelectALL` on the left tab or select the token you want to use  
+After selecting the token, press `Join` to start entering the bot  
 
-メンバースクリーニングの回避をするには、`Bypass  Member Screen`にチェックを入れ、サーバーIDを入れてから入室させます  
-Tokenを退室させる場合は、 `ServerID` へサーバーのIDを入れます  
-`Leave` を押すとサーバーからボットが退室します
+To bypass member screening, check the `Bypass Member Screen` checkbox and enter the server ID before allowing the bot to enter.  
+To leave the Token, enter the server ID in the `ServerID` field.  
+Press `Leave` to exit the selfbot from the server
 
 ![](https://cdn.upload.systems/uploads/oiBLQd1n.gif)
 
-### サーバー内スパム (Spammer)
-`ServerID`へスパム対象のサーバーのIDを入れて`ChannelID`にはスパム対象のチャンネルのIDを入れるんだよ馬鹿野郎知恵遅れウンコ漏らし
+### Server Spammer
+Put the ID of the server you're spamming into `ServerID` and the ID of the channel you're spamming into `ChannelID`, you dumb retarded shit
 
-#### 各種ボタン等の説明
-┣ All Ping : サーバー内に居る全てのメンバーへメンションを飛ばします。対象のサーバーが1000人+の場合オンラインメンバーのみとなります  
-┣ Spam to All Channel : サーバー内の発言可能な全てのチャンネルへスパムを行います  
-┣ Random String : スパムする文章の最後へランダムな文字列を入れます  
-┣ RateLimitFixer : レートリミットを掛けられた時、レートリミットが終わるまでリクエストの送信を一時停止します  
+#### Button description
+┣ All Ping : Mentions will be sent to all members in the server. If the target server has 1000+ members, only online members will be sent  
+┣ Spam to All Channel : Spam all channels on the server that can send  
+┣ Random String : Insert a random string at the end of the text to be spammed  
+┣ RateLimitFixer : When a rate limit is applied, suspend sending requests until the rate limit is over.  
 ┃  
-┣ Mention : All Pingでメンションする人数の設定を行います。All Pingを有効化しているときのみ動きます  
-┗ SpamMessage : スパムする文章をここに入力します
+┣ Mention : Sets the number of people to be mentored by All Ping. This will only work when All Ping is enabled.  
+┗ SpamMessage : Enter the text to be spammed here
 
-Spamをする場合、
-`Content`へメッセージを入れ、`Add Content`を押し、contentを
-追加します(これは複数個追加可能)  
-`Spam Start`でスパムを開始し、もしAll Pingが有効な場合メンバーの取得を行ってからspamを開始します  
-`EndSpam`でスパムを停止  
-[:warning:] All Pingは不安定な為、動かない場合があります。一度停止してからもう一度開始すると動く場合があります
+If you want to spam, enter a message in the
+Put the message in the `Content` field and press `Add Content` to add the content.
+Add content (you can add more than one of these).  
+Start spamming with `Spam Start`, and if All Ping is enabled, fetch the members and then start spamming.  
+Stop spam with `EndSpam`  
+[:warning:] All Ping is unstable and may not work. If you stop it and start it again, it may work.
 
 ![](https://cdn.upload.systems/uploads/vPXswbzC.gif)
 
 
 
-## よくありそうな質問
+## FAQ (Fuck u)
 
-- Q. プロキシって何？  
-┗ A. あなたのIPが規制されない為の中継サーバーです。無料で配布されている物は大体ゴミですので買いましょう。オススメはProxyscrapeのプレミアムです
+- Q. What is a proxy?  
+┗ A. This is a relay server to prevent your IP from being restricted. Most of the free ones are trash, so you should buy one. I recommend Proxyscrape Premium.
 
-- Q. Tokenって何？  
-┗ A. Discordのアカウントの全てと言っても過言では無い物です。詳しくは別の人に聞いてくれ書ききれん
+- Q. What is a token?  
+┗ A. It's everything that a Discord account is supposed to be. Ask someone else for the details, I can't write them down.
 
-- Q. All Ping有効化してスパム開始したんだけど、ずっと発言されないんだけど？ゴミツールか？おい？  
-┗ A. ゴミはお前だよ死ね
+- Q. I've enabled All Ping and started spamming, but it won't speak up all the time? Trash tool? Hey?  
+┗ A. You're the trash. Die
 
-- Q. スパム開始しても発言が確認できないんだけど？？  
-┗ A. ボットがミュートされていないか、又は蹴られたりしていないか確認してください。また、サーバーの認証レベルに引っかかってる可能性があるので確認してください
+- Q. Why can't I see what you're sending when I start spamming?  
+┗ A. Please make sure that your bot is not muted or kicked. Also, check the server's authentication level, as it may be trapped.
 
-- Q. 入室させたのに勝手に抜けてるんだけど？  
-┗ A. Vortex等のアンチレイドが働いた可能性が高いです。遅延を設定した後、再試行してください。
+- Q. I let they join, and now they're leaving on their own?  
+┗ A. It is very likely that Vortex or other anti-raid worked. Please set the delay and try again.
 
-- Q. 退室できないんだけど？  
-┗ A. プロキシ又はTokenが死んでんだよバーーーーーーカ
+- Q. I can't leaving selfbots.  
+┗ A. The proxy or Token is dead, baaaack lol
 
-- Q. スパムしようとしたらKeyErrorとか出るんだけど？  
-┗ A. Botが蹴られている、又はBanされているんだよばーーーーーーーーーーーーーーーーか二度と使うんじゃねえ
+- Q. When I try to spam it, I get KeyError or something like that?  
+┗ A. The bot is being kicked or banned You're stuuuuuuupid and don't ever use it again!
 
-- Q. Rate Limit!とか出たんだけど？  
-┗ A. Discordにレートリミットを掛けられています。普通の場合、数秒で解除されるため、あまり気にしなくてもよいです
+- Q. I got a Rate Limit!  
+┗ A. You are being rate limited on Discord. Don't worry too much about it, as it is usually removed in a few seconds!
 
-- Q. メンバースクリーニングって何？  
-┗ A. そんなのも知らねえのかよ知恵遅れ
+- Q. What is Member Screening?  
+┗ A. You don't know anything about that, retard?
 
-- Q. メンションとかできないんだけど。  
-┗ A. 普通に @Nigger#1234 とかやってもできねーんだよ知恵遅れ  
-    - ユーザーメンション: `<@userid>`
-    - ロールメンション: `<@&roleid>`
-    - チャンネル: `<#channelid>`
+- Q. I can't do any mentions.  
+┗ A. You can't do it by doing the normal @Nigger#1234, retard  
+    - User: `<@userid>`
+    - Role: `<@&roleid>`
+    - Channel: `<#channelid>`
     
-- Q. 404ってエラー出てspamできないんだけど何？！？！  
-┗ A. サーバーIDとかチャンネルIDとか間違えてるんだよ馬鹿野郎死んでくれ
+- Q. I'm getting a 404 error and can't spam, what?  
+┗ A. You've got the wrong server ID, wrong channel ID, you idiot, please die.
 
-- Q. どうやってtoken手に入れるの？  
-┗ A. 買うか作ればーーーーーーーーーーーーーーーーか
+- Q. How do I get a token?  
+┗ A. Buy it or make it bruh You idiot
 
-## 最後に
-こんなの見てないでPremium買えFreeに人権はないんだよ死ね
+## End
+Don't look at this stuff, buy Premium, Free has no human rights, die!
