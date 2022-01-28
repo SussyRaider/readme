@@ -21,7 +21,7 @@
 - Free has no human rights
 - Free has no human rights
 
-## Prerequirements
+## Prerequisite
 - SussyRaider Free
 - To join the [official server](https://discord.gg/Cdee9PTRg8) with your account
 - Windows PC
