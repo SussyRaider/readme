@@ -25,19 +25,17 @@ title: "SussyRaider 使い方ガイド"
 
 ## アカウントの作成&ログイン
 SussyRaiderは使うときにアカウントを作成する必要があります（初回のみ）  
-1. まず[公式サーバー](https://discord.gg/Cdee9PTRg8)の`#hwid-issue`からチケットを作成し、Devたちに殴り込んでライセンスキーを入手します  
-   (このガイドを読んでいないような馬鹿はライセンスキーを入手できない場合があります)
-2. ライセンスキーが手に入ったら、[SussyRaiderの登録ページ](https://sussyraider.cc/register)でアカウントを登録します  
+1. まずSussyRaiderを購入したときにライセンスキーをもらったはずです  
+2. [SussyRaiderの登録ページ](https://sussyraider.cc/register)でアカウントを登録します  
    ライセンスキーを一番最後の場所に入れてください  
-   ![register sample](https://i.imgur.com/sK7Kfad.png)
-3. Dev達が疲弊するので、登録できたら殴り込みに行ったチケットをcloseしましょう
-4. SussyRaiderを起動し、`userid`に貴方の設定したユーザー名、`password`にあなたのパスワードを入れて、`LaunchSussy`を押してください
+   ![register sample](https://i.imgur.com/sK7Kfad.png)  
+3. SussyRaiderを起動し、`userid`に貴方の設定したユーザー名、`password`にあなたのパスワードを入れて、`LaunchSussy`を押してください
 
 ![](https://cdn.upload.systems/uploads/dYdtg3JE.png)
 
-5. SussyRaiderが起動します
+4. SussyRaiderが起動します
 
-- [:information_source:] `old`にチェックを入れると旧バージョンのuiを使用することができます
+- [:information_source:] ここからバージョンを選択したりSussyRaiderをダウンロードできます
 - [:warning:] 起動しない場合は下にあるよくある質問を参照してください
 
 ## モジュールの操作方法
@@ -158,6 +156,9 @@ Ticket Botなどのボタンを押すことができます
 
 - Q. All Ping有効化してスパム開始したんだけど、ずっと発言されないんだけど？ゴミツールか？おい？
 ┗ A. メンバーの取得などができていなさそうな場合は一度停止してから開始してみてください。(メンバーの取得ができている場合、`[+] Get <USERID>`とコンソールに出てきます)
+
+- Q. TokenもproxyもURLもあってるはずなのに400でjoinできないんだけど！？  
+┗ A. Discordがjoin時にhCaptchaを要求する場合があるようにしたカスパッチを当てたのでjoinできないです
 
 - Q. OnlinerとかReaction使えないんだけど？  
 ┗ A. Onlinerについてはまだ実装されとらんしReactionは壊れてるって書いてんだろメクラボケ
